@@ -12,7 +12,7 @@
     <br>
     <input type="submit">
     </form>
-
+//edit
     Answer: <?php echo $_GET["1stnum"] + $_GET["2ndnum"] ?>
     
 </body>
