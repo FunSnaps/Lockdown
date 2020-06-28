@@ -8,11 +8,21 @@
 <body>
     
     <form action = "Checkboxes.php" method = "post">
+    Mclaren: <input type = "checkbox" name ="VehicleBrands[]" value = "Honda">
+    <br>
+    Harley: <input type = "checkbox" name ="VehicleBrands[]" value = "Harley">
+    <br>
+    Nissan: <input type = "checkbox" name ="VehicleBrands[]" value = "Nissan">
+    <br>
+
     <input type = "submit">
 
     </form>
 
-
+    <?php
+    
+    
+    ?>
 
 
 
